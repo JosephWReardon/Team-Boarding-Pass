@@ -1,3 +1,3 @@
 # Team-Boarding-Pass
 
-#Group project for GenSpark Java Course
+Group project for GenSpark Java Course
